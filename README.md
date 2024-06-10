@@ -29,7 +29,7 @@ This repository showcases a 3D model of a Mazda MX5 Miata designed in SolidWorks
 
 Here is a video showcasing the Mazda MX5 Miata model:
 
-[![Mazda MX5 Miata Video](https://youtu.be/N-yHc_XD6HI.jpg)](https://youtu.be/N-yHc_XD6HI)
+[![Mazda MX5 Miata Video](img1.png)](https://youtu.be/N-yHc_XD6HI)
 
 *Click on the image to watch the video.*
 
