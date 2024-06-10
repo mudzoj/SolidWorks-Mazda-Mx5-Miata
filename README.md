@@ -7,12 +7,7 @@ Welcome to the Mazda MX5 Miata SolidWorks project repository. This project conta
 - [Introduction](#introduction)
 - [Features](#features)
 - [Video](#video)
-- [File Structure](#file-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Improvements](#improvements)
 
 ## Introduction
 
@@ -31,7 +26,13 @@ Here is a video showcasing the Mazda MX5 Miata model:
 
 [![Mazda MX5 Miata Video](img1.png)](https://youtu.be/N-yHc_XD6HI)
 
-*Click on the image to watch the video.*
+* Click on the image to watch the video.*
 
-## File Structure
+## Improvements
 
+While I am incredibly proud of the work done on this project, there are some areas for improvement:
+
+- **Blue Lines on Surfaces:** The blue lines visible within the model are caused by issues with surface continuity and the way surfaces were patched together. This can be improved by ensuring that all surface edges are properly trimmed and knitted together, which will create a more seamless appearance.
+  
+- **Detail Enhancements:** Adding more intricate details to smaller components like the dashboard buttons or seat stitching can enhance the realism of the model.
+  
