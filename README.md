@@ -26,7 +26,7 @@ Here is a video showcasing the Mazda MX5 Miata model:
 
 [![Mazda MX5 Miata Video](img1.png)](https://youtu.be/N-yHc_XD6HI)
 
-* Click on the image to watch the video.*
+*Click on the image to watch the video.*
 
 ## Improvements
 
